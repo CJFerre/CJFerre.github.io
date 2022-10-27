@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(250, 249, 248);
+    text-align: center;
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(2, 2, 3);
+    
+}
+
+img{
+    box-shadow: 0 0 1px 1px #efefef ;
+    border: solid 5px black;
+    padding: 0;
+    width :300px;
+    margin: 50px
+}
+
+#contact{
+    background-color: cornflowerblue;
+    border-radius: 3px;
+    color: beige;
+    padding: 10px 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+p{
+    color: #666;
+    line-height: 1.5em;
+    margin: 20px auto 0;
+    text-align: justify;
+    max-width: 500;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li
+{
+    display: inline;
+    margin: 0 5px;
+
+
+
+}
